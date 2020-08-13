@@ -1,0 +1,25 @@
+body{
+    background: #E5E5E5;
+}
+.list a {
+    color: black;
+    text-decoration: none;
+}
+.list a:hover {
+    color: #2196F3;
+}
+.list a:focus {
+    color: black;
+}
+.list a:active {
+    color: darkgreen;
+}
+.web {
+    color: #2196F3;
+}
+.studio {
+    color: black;
+}
+.text {
+    text-decoration: none;
+    }
